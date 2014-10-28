@@ -1,0 +1,6 @@
+{application, jiffy, [
+    {description, "JSON Decoder/Encoder."},
+    {vsn, "b90666e"},
+    {registered, []},
+    {applications, [kernel]}
+]}.
